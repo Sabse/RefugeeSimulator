@@ -1,6 +1,9 @@
 Kurs: Play2Change (Wintersemester 2015/2016) an der Universität Regensburg
+
 Kursleiter: Martin Brockelmann, Martin Dechant, Jonas Reichenberger 
+
 Gruppenname: Refugee Simulator
+
 Projektname: Refugee Simulator
 
 Developing: 
