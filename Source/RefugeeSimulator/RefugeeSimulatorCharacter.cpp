@@ -79,6 +79,7 @@ void ARefugeeSimulatorCharacter::SetupPlayerInputComponent(class UInputComponent
 
 void ARefugeeSimulatorCharacter::OnFire()
 { 
+	/*
 	// try and fire a projectile
 	if (ProjectileClass != NULL)
 	{
@@ -109,7 +110,7 @@ void ARefugeeSimulatorCharacter::OnFire()
 		{
 			AnimInstance->Montage_Play(FireAnimation, 1.f);
 		}
-	}
+	}*/
 
 }
 
