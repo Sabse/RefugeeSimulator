@@ -5,6 +5,9 @@
 #include "RefugeeSimulatorProjectile.h"
 #include "Animation/AnimInstance.h"
 #include "GameFramework/InputSettings.h"
+#include "Engine.h"
+#include <fstream>
+#include <string>
 
 DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
@@ -64,6 +67,8 @@ void ARefugeeSimulatorCharacter::SetupPlayerInputComponent(class UInputComponent
 	{
 		InputComponent->BindAction("Fire", IE_Pressed, this, &ARefugeeSimulatorCharacter::OnFire);
 	}
+
+	InputComponent->BindAction("PrintLogData", IE_Pressed, this, &ARefugeeSimulatorCharacter::printToLogfile);
 	
 	InputComponent->BindAxis("MoveForward", this, &ARefugeeSimulatorCharacter::MoveForward);
 	InputComponent->BindAxis("MoveRight", this, &ARefugeeSimulatorCharacter::MoveRight);
@@ -175,19 +180,25 @@ void ARefugeeSimulatorCharacter::TouchUpdate(const ETouchIndex::Type FingerIndex
 
 void ARefugeeSimulatorCharacter::MoveForward(float Value)
 {
-	if (Value != 0.0f)
+	if (movementEnabled)
 	{
-		// add movement in that direction
-		AddMovementInput(GetActorForwardVector(), Value);
+		if (Value != 0.0f)
+		{
+			// add movement in that direction
+			AddMovementInput(GetActorForwardVector(), Value);
+		}
 	}
 }
 
 void ARefugeeSimulatorCharacter::MoveRight(float Value)
 {
-	if (Value != 0.0f)
+	if (movementEnabled)
 	{
-		// add movement in that direction
-		AddMovementInput(GetActorRightVector(), Value);
+		if (Value != 0.0f)
+		{
+			// add movement in that direction
+			AddMovementInput(GetActorRightVector(), Value);
+		}
 	}
 }
 
@@ -214,4 +225,45 @@ bool ARefugeeSimulatorCharacter::EnableTouchscreenMovement(class UInputComponent
 		InputComponent->BindTouch(EInputEvent::IE_Repeat, this, &ARefugeeSimulatorCharacter::TouchUpdate);
 	}
 	return bResult;
+}
+
+
+void ARefugeeSimulatorCharacter::logEvent(float runtime, FString eventName, FString action) 
+{
+	int minutes = timeCalculator(int(runtime), 0);
+	int seconds = int(runtime)-(minutes*60);
+	FString minutesString = FString::FromInt(minutes);
+	FString secondsString = FString::FromInt(seconds);
+	FString logMessage = TEXT("[" + minutesString + ": " + secondsString + "]" + " " + eventName + " " + action + "\n");
+	
+	//add string to string array
+	logData.Add(logMessage);
+
+}
+
+void ARefugeeSimulatorCharacter::printToLogfile() 
+{
+	FString* logMPtr = logData.GetData();
+	FString fileName = TEXT("LogFile");
+	fileName += TEXT(".txt");
+	FString saveFile;
+	saveFile += "/";
+	saveFile += fileName;
+
+	FString eventLogs;
+	//IFileHandle* pFile = FPlatformFileManager::Get().GetPlatformFile().OpenWrite(*fileName);
+	for (int i = 0; i < logData.Num(); i++) 
+	{
+		
+			eventLogs += logMPtr[i];
+			eventLogs += LINE_TERMINATOR;
+		
+	}
+
+	FFileHelper::SaveStringToFile(eventLogs, *saveFile);
+	
+}
+
+int ARefugeeSimulatorCharacter::timeCalculator(int seconds, int minutes) {
+	return seconds / 60;
 }
