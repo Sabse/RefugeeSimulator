@@ -24,6 +24,12 @@ class ARefugeeSimulatorCharacter : public ACharacter
 public:
 	ARefugeeSimulatorCharacter();
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Content)
+	FString textBoxContent;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Event)
+	bool movementEnabled = true;
+
 	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseTurnRate;
@@ -48,7 +54,21 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	class UAnimMontage* FireAnimation;
 
+	UFUNCTION(BlueprintCallable, Category = Event)
+		/** Collect data to create log string and add to log string array*/
+		void logEvent(float runtime, FString eventName, FString action);
+
+
 protected:
+
+	/** save log messages to string array during gameplay*/
+	TArray<FString> logData;
+
+	/** Print data of log string to Logfile*/
+	void printToLogfile();
+
+	/** Calculate the minutes out of seconds*/
+	int timeCalculator(int seconds, int minutes);
 	
 	/** Fires a projectile. */
 	void OnFire();
@@ -102,6 +122,8 @@ public:
 	FORCEINLINE class USkeletalMeshComponent* GetMesh1P() const { return Mesh1P; }
 	/** Returns FirstPersonCameraComponent subobject **/
 	FORCEINLINE class UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
+
+	
 
 };
 
