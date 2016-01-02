@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{a7858019-cf03-43f5-a489-829f03cf368b}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.4870748299319727</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/scream 03 woman {e5b102b0-9d39-4be9-868e-9fea0fe79425}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6889249d-8acb-4b62-a897-81c4a124fc08}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="Workspace" id="{c74dc305-eaac-480f-808c-0b408eba9d3d}">
+        <property name="builtBanksOutputDirectory">
+            <value>C:/Users/Puppetmaster/Desktop/RefugeeSimulator/Content/FMOD/</value>
+        </property>
+        <property name="outputFormat">
+            <value>6</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{d8563327-e796-4fa8-a369-c92fe473b1e6}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{e1d01218-905d-43bf-ae12-2fb8f9fb4032}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{e74294a8-c72a-4520-a5d7-60cb5e391e13}</destination>
+        </relationship>
+        <relationship name="audioBinManager">
+            <destination>{2357347c-fa20-4567-97b7-e8df400b28ce}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{5bbe3192-fd9d-4831-b339-1eab23f36b82}</destination>
+        </relationship>
+    </object>
+    <object class="AudioBinManager" id="{2357347c-fa20-4567-97b7-e8df400b28ce}">
+        <relationship name="masterAudioBinFolder">
+            <destination>{6889249d-8acb-4b62-a897-81c4a124fc08}</destination>
+        </relationship>
+    </object>
+</objects>

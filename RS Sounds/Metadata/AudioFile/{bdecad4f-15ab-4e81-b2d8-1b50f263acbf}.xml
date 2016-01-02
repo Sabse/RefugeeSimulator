@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{bdecad4f-15ab-4e81-b2d8-1b50f263acbf}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.2361904761904761</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/scream 04 children {c12ac1ad-f834-4b00-8b7b-8f1e288618ff}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6889249d-8acb-4b62-a897-81c4a124fc08}</destination>
+        </relationship>
+    </object>
+</objects>

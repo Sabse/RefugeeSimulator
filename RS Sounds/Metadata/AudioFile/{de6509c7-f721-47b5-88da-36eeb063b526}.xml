@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{de6509c7-f721-47b5-88da-36eeb063b526}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.1931875000000001</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/dog barks 1 {7fc27ebe-1c50-45a9-b6f6-0c7fe3f29965}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6889249d-8acb-4b62-a897-81c4a124fc08}</destination>
+        </relationship>
+    </object>
+</objects>
