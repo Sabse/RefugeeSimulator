@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.01.07.00">
     <object class="Workspace" id="{c74dc305-eaac-480f-808c-0b408eba9d3d}">
         <property name="builtBanksOutputDirectory">
-            <value>C:/Users/Puppetmaster/Desktop/game engineering/RefugeeSimulator/Content/FMOD/</value>
+            <value>C:/Users/Puppetmaster/Desktop/RefugeeSimulator/Content/FMOD/</value>
         </property>
         <property name="outputFormat">
             <value>6</value>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.01.07.00">
-    <object class="AudioFile" id="{2846c71f-aa29-4912-a988-8ee45984ccb3}">
+    <object class="AudioFile" id="{a80c4281-b938-4641-9ee3-4b90578fe2ae}">
         <property name="frequencyInKHz">
             <value>48</value>
         </property>
@@ -8,10 +8,10 @@
             <value>2</value>
         </property>
         <property name="length">
-            <value>160.875</value>
+            <value>1.9262708333333334</value>
         </property>
         <property name="audioFilePath">
-            <value>$(AUDIO_BIN_DIR)/small town traffic {527b7466-16d0-4ca4-ada9-422c30c86a2f}.wav</value>
+            <value>$(AUDIO_BIN_DIR)/scream 05 girl b {b1e1f0d2-6ec1-4557-a4b8-e6c54a1f0b05}.wav</value>
         </property>
         <relationship name="container">
             <destination>{6889249d-8acb-4b62-a897-81c4a124fc08}</destination>

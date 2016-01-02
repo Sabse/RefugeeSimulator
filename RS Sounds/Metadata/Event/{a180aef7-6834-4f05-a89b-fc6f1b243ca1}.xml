@@ -111,7 +111,7 @@
             <value>3</value>
         </property>
         <property name="maximumScatterDistance">
-            <value>25</value>
+            <value>15</value>
         </property>
         <property name="volumeRandomization">
             <value>-5</value>
@@ -166,7 +166,7 @@
             <destination>{17d93a60-e14c-4c75-bf07-581ba8def501}</destination>
             <destination>{c2fd3e94-51c6-4e0e-8c3a-ac78124d89e3}</destination>
             <destination>{470ff69d-b1e2-4569-bf73-ee1c24f7c133}</destination>
-            <destination>{f5845a49-6c48-410d-bab3-7059168b721a}</destination>
+            <destination>{2cdec862-c510-4a8c-9c2e-333a70f28f03}</destination>
             <destination>{a5a84ada-3554-4cab-8157-9c04ce41dd5f}</destination>
             <destination>{c15a1af8-219c-44af-a5c7-9b2522dc4fe6}</destination>
             <destination>{044d9c32-a147-40c6-bf2f-23e49485ca34}</destination>
@@ -209,9 +209,9 @@
             <destination>{e3f41921-b9be-4d04-ad7d-f20bc1c59fa3}</destination>
         </relationship>
     </object>
-    <object class="SingleSound" id="{f5845a49-6c48-410d-bab3-7059168b721a}">
+    <object class="SingleSound" id="{2cdec862-c510-4a8c-9c2e-333a70f28f03}">
         <relationship name="audioFile">
-            <destination>{39fdf383-02cb-4833-bdf9-3c83c2c5cb65}</destination>
+            <destination>{a80c4281-b938-4641-9ee3-4b90578fe2ae}</destination>
         </relationship>
     </object>
     <object class="SingleSound" id="{a5a84ada-3554-4cab-8157-9c04ce41dd5f}">
@@ -225,6 +225,9 @@
         </relationship>
     </object>
     <object class="SingleSound" id="{044d9c32-a147-40c6-bf2f-23e49485ca34}">
+        <property name="volume">
+            <value>-6</value>
+        </property>
         <relationship name="audioFile">
             <destination>{a7858019-cf03-43f5-a489-829f03cf368b}</destination>
         </relationship>
