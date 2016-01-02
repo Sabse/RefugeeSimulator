@@ -234,7 +234,7 @@ void ARefugeeSimulatorCharacter::logEvent(float runtime, FString eventName, FStr
 	int seconds = int(runtime)-(minutes*60);
 	FString minutesString = FString::FromInt(minutes);
 	FString secondsString = FString::FromInt(seconds);
-	FString logMessage = TEXT("[" + minutesString + ": " + secondsString + "]" + " " + eventName + " " + action + "\n");
+	FString logMessage = TEXT("[" + minutesString + ": " + secondsString + "]" + " " + eventName + " " + action);
 	
 	//add string to string array
 	logData.Add(logMessage);
@@ -247,11 +247,10 @@ void ARefugeeSimulatorCharacter::printToLogfile()
 	FString fileName = TEXT("LogFile");
 	fileName += TEXT(".txt");
 	FString saveFile;
-	saveFile += "/";
+	saveFile += "/RSLogFiles/";
 	saveFile += fileName;
 
 	FString eventLogs;
-	//IFileHandle* pFile = FPlatformFileManager::Get().GetPlatformFile().OpenWrite(*fileName);
 	for (int i = 0; i < logData.Num(); i++) 
 	{
 		

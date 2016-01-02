@@ -10,6 +10,9 @@ class ARefugeeSimulatorGameMode : public AGameMode
 
 public:
 	ARefugeeSimulatorGameMode();
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Stats)
+	FString fileName;
 };
 
 
