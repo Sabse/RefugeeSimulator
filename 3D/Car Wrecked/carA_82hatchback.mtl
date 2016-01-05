@@ -1,0 +1,29 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub smdimportmtl (1) to come 
+#
+newmtl 4carz1024.tga
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 4carz1024.tga
+#
+# Multi/Sub smdimportmtl done 
+#
+# Multi/Sub smdimportmtl (1) to come 
+#
+newmtl 4carz1024_glass.tga
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 4carz1024_glass.tga
+#
+# Multi/Sub smdimportmtl done 
+#
+# EOF
