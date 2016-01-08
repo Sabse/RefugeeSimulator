@@ -1,0 +1,8 @@
+- erstelle Terrain über das Berg Symbol links oben
+- stelle auf "import from"
+- füge die raw heightmap im ordner "external" ein
+- setze das M_Ground_Landscape als Material ein
+- Klicke auf Import ganz unten
+- Sobald das Terrain erstellt wurde, ändere den Z-Wert auf 24770.0 cm
+- Builde die Belichtung neu
+- keine weiteren Werte müssen verändert werden
