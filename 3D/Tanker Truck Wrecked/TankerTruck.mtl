@@ -1,0 +1,57 @@
+#  
+# 
+newmtl tanker_truck_down_tanker_truck_tan.3677
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tanker_truck_tank_d.dds
+
+
+newmtl tanker_truck_cab_tanker_truck_cab_d.dd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tanker_truck_cab_d.dds
+
+
+newmtl tanker_truck_tank_tanker_truck_tan.3677
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tanker_truck_tank_d.dds
+
+
+newmtl broken_glass_broken_glass_d.dds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd broken_glass_d.dds
+
+
+newmtl tanker_truck_tire_tanker_truck_tir.884
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tanker_truck_tire_d.dds
+
+

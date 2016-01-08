@@ -1,0 +1,1863 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__339 (8) to come 
+#
+newmtl Standardmater5
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater2
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater3
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater6
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater4
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmaterial
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater7
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__339 done 
+#
+# Multi/Sub Material__328 (3) to come 
+#
+newmtl Standardmater8
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  0.7
+Ns  0.0
+illum 2
+#
+newmtl Standardmater9
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  0.8
+Ns  0.0
+illum 2
+#
+newmtl Standardmater10
+Ka  0.0 1.0 0.8
+Kd  0.0 1.0 0.8
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  4.0
+illum 2
+#
+# Multi/Sub Material__328 done 
+#
+# Multi/Sub Material__317 (3) to come 
+#
+newmtl Standardmater8
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  0.7
+Ns  0.0
+illum 2
+#
+newmtl Standardmater9
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  0.8
+Ns  0.0
+illum 2
+#
+newmtl Standardmater10
+Ka  0.0 1.0 0.8
+Kd  0.0 1.0 0.8
+Ks  1.0 1.0 1.0
+d  0.2
+Ns  4.0
+illum 2
+#
+# Multi/Sub Material__317 done 
+#
+newmtl Standardmater11
+Ka  1.0 0.2 0.0
+Kd  1.0 0.2 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+# Multi/Sub Material__306 (33) to come 
+#
+newmtl Standardmater16
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater14
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater19
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater17
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater13
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater18
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater15
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater34
+Ka  0.9 0.2 0.0
+Kd  0.9 0.2 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater30
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater31
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater35
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  0.1
+Ns  0.0
+illum 2
+#
+newmtl Standardmater33
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater32
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater41
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater40
+Ka  1.0 1.0 0.8
+Kd  1.0 1.0 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater22
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater24
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater26
+Ka  0.8 0.6 0.4
+Kd  0.8 0.6 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater27
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater28
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater12
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater37
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater38
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater21
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater39
+Ka  0.2 1.0 0.0
+Kd  0.2 1.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater20
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater44
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater29
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater36
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater23
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  0.7
+Ns  0.0
+illum 2
+#
+newmtl Standardmater42
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater43
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater25
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__306 done 
+#
+# Multi/Sub Material__272 (3) to come 
+#
+newmtl Standardmater45
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater46
+Ka  0.0 1.0 0.0
+Kd  0.0 1.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater47
+Ka  1.0 1.0 0.0
+Kd  1.0 1.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__272 done 
+#
+# Multi/Sub Material__261 (3) to come 
+#
+newmtl Standardmater48
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater49
+Ka  0.7 0.6 0.6
+Kd  0.7 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater50
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  0.7
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__261 done 
+#
+# Multi/Sub Material__250 (2) to come 
+#
+newmtl Standardmater51
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater52
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__250 done 
+#
+newmtl Standardmater53
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater54
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__239 (5) to come 
+#
+newmtl Standardmater56
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater55
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater59
+Ka  1.0 0.9 0.8
+Kd  1.0 0.9 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater57
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater58
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__239 done 
+#
+newmtl Standardmater60
+Ka  0.0 1.0 0.8
+Kd  0.0 1.0 0.8
+Ks  1.0 1.0 1.0
+d  0.1
+Ns  4.0
+illum 2
+#
+# Multi/Sub Material__228 (38) to come 
+#
+newmtl Standardmater76
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater64
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater72
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater63
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater69
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater65
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater68
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater73
+Ka  0.8 0.6 0.4
+Kd  0.8 0.6 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater71
+Ka  0.7 0.9 1.0
+Kd  0.7 0.9 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater70
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater89
+Ka  0.7 0.9 1.0
+Kd  0.7 0.9 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater84
+Ka  0.7 0.9 1.0
+Kd  0.7 0.9 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater80
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater87
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater82
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater61
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater67
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater83
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater98
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater85
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater74
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater62
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater88
+Ka  0.2 1.0 0.0
+Kd  0.2 1.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater75
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater86
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater90
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater79
+Ka  0.9 0.9 1.0
+Kd  0.9 0.9 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater81
+Ka  1.0 0.5 0.2
+Kd  1.0 0.5 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater77
+Ka  0.8 0.6 0.4
+Kd  0.8 0.6 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater91
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater92
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater95
+Ka  1.0 0.3 0.3
+Kd  1.0 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater93
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater94
+Ka  1.0 0.8 0.2
+Kd  1.0 0.8 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater96
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater97
+Ka  0.6 0.0 0.0
+Kd  0.6 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater66
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater78
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__228 done 
+#
+newmtl Standardmater99
+Ka  0.0 1.0 0.8
+Kd  0.0 1.0 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+# Multi/Sub Material__189 (30) to come 
+#
+newmtl Standardmater108
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater103
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater106
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater107
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater104
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater111
+Ka  0.8 0.6 0.4
+Kd  0.8 0.6 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater110
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater116
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater102
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater119
+Ka  1.0 0.5 0.2
+Kd  1.0 0.5 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater117
+Ka  0.9 0.9 1.0
+Kd  0.9 0.9 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater118
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater125
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater112
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater113
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater114
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater115
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater122
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater100
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater101
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater123
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  0.8
+Ns  0.0
+illum 2
+#
+newmtl Standardmater109
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater126
+Ka  0.2 1.0 0.0
+Kd  0.2 1.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater121
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater129
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater127
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater128
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater105
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater120
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater124
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  3.0
+illum 2
+#
+# Multi/Sub Material__189 done 
+#
+# Multi/Sub Material__158 (3) to come 
+#
+newmtl Standardmater130
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater132
+Ka  0.0 0.3 1.0
+Kd  0.0 0.3 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater131
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__158 done 
+#
+# Multi/Sub Material__147 (5) to come 
+#
+newmtl Standardmater134
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater135
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater133
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater136
+Ka  0.0 0.0 0.8
+Kd  0.0 0.0 0.8
+Ks  1.0 1.0 1.0
+d  0.9
+Ns  0.0
+illum 2
+#
+newmtl Standardmater137
+Ka  0.8 0.0 0.0
+Kd  0.8 0.0 0.0
+Ks  1.0 1.0 1.0
+d  0.9
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__147 done 
+#
+newmtl Standardmater138
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+# Multi/Sub Material__136 (8) to come 
+#
+newmtl Standardmater5
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater2
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater3
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater1
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater6
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  2.0
+illum 2
+#
+newmtl Standardmater4
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmaterial
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater7
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__136 done 
+#
+# Multi/Sub Material__125 (5) to come 
+#
+newmtl Standardmater140
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater139
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater141
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater143
+Ka  0.0 0.3 1.0
+Kd  0.0 0.3 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater142
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__125 done 
+#
+newmtl Standardmater144
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  3.0
+illum 2
+#
+# Multi/Sub Material__114 (12) to come 
+#
+newmtl Standardmater149
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater148
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater147
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater151
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater150
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater152
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater156
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater145
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater146
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  3.0
+illum 2
+#
+newmtl Standardmater154
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater155
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater153
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__114 done 
+#
+# Multi/Sub Material__101 (12) to come 
+#
+newmtl Standardmater149
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater148
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater147
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater151
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater150
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater152
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater156
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater145
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater146
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  3.0
+illum 2
+#
+newmtl Standardmater154
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater155
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater153
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__101 done 
+#
+# Multi/Sub Material__88 (15) to come 
+#
+newmtl Standardmater162
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater161
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater160
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater164
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater163
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater165
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater171
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater159
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater157
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater166
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater158
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  3.0
+illum 2
+#
+newmtl Standardmater167
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater168
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater169
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater170
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__88 done 
+#
+# Multi/Sub Material__72 (4) to come 
+#
+newmtl Standardmater175
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater172
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater174
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater173
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__72 done 
+#
+# Multi/Sub Material__61 (4) to come 
+#
+newmtl Standardmater177
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater178
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater176
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater179
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__61 done 
+#
+# Multi/Sub Material__50 (5) to come 
+#
+newmtl Standardmater184
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater180
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater181
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater182
+Ka  0.2 1.0 0.0
+Kd  0.2 1.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater183
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__50 done 
+#
+# Multi/Sub Material__39 (14) to come 
+#
+newmtl Standardmater190
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater189
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  4.0
+illum 2
+#
+newmtl Standardmater188
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater192
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater191
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater193
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater198
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  3.0
+illum 2
+#
+newmtl Standardmater187
+Ka  0.7 0.6 0.7
+Kd  0.7 0.6 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater185
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater186
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  3.0
+illum 2
+#
+newmtl Standardmater194
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater195
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standardmater196
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Standardmater197
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  1.0
+illum 2
+#
+# Multi/Sub Material__39 done 
+#
+# EOF
