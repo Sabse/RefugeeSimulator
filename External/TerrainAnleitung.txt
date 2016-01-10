@@ -4,5 +4,7 @@
 - setze das M_Ground_Landscape als Material ein
 - Klicke auf Import ganz unten
 - Sobald das Terrain erstellt wurde, ändere den Z-Wert auf 24770.0 cm
+- gehe im Landscape modus auf "paint"
+- setze im bereich "target layers" die entsprechende layer infos auf die ebenen (haben gleiche namen)
 - Builde die Belichtung neu
 - keine weiteren Werte müssen verändert werden
