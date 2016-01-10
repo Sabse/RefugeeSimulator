@@ -8,7 +8,7 @@ Projektname: Refugee Simulator
 
 Developing: 
 - Gietl Manuel (3D/Level Design)
-- Krause Max (Programmierung & 3D/Level Design)
+- Kruse Max (Programmierung & 3D/Level Design)
 - Müller Max (Audio/UI Design)
 - Paul Christoph (Programmierung)
 - Spreitzer Sabrina (Management & Programmierung)
