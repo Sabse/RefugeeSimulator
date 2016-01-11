@@ -111,6 +111,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{e9149557-14ad-46ca-989d-93baeda10384}">
+        <property name="volume">
+            <value>3.5</value>
+        </property>
         <relationship name="effectChain">
             <destination>{f6f50546-8bbb-4c42-b9b3-e4fc288992de}</destination>
         </relationship>
@@ -139,6 +142,9 @@
         </relationship>
     </object>
     <object class="EventMixerGroup" id="{282c0444-7b9c-4789-b67b-0646a0591981}">
+        <property name="volume">
+            <value>10</value>
+        </property>
         <property name="name">
             <value>Explosion</value>
         </property>
@@ -438,7 +444,7 @@
             <value>1.80000007</value>
         </property>
         <property name="maximumDistance">
-            <value>45</value>
+            <value>35</value>
         </property>
         <property name="userLFELevel">
             <value>-5</value>

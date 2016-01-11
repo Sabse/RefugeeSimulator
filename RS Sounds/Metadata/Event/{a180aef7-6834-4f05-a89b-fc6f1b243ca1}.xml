@@ -180,7 +180,11 @@
     </object>
     <object class="MixerBusPanner" id="{bfd70eb3-15fc-48ac-bd1b-d747a4e3a620}"/>
     <object class="MixerBusFader" id="{48f48e17-9796-46f9-a86b-185b5fa38355}"/>
-    <object class="SpatialiserEffect" id="{719f1d7f-bbdc-4395-ac63-d51a4487e418}"/>
+    <object class="SpatialiserEffect" id="{719f1d7f-bbdc-4395-ac63-d51a4487e418}">
+        <property name="minimumDistance">
+            <value>5</value>
+        </property>
+    </object>
     <object class="MixerSend" id="{6c1727b9-2dd8-4b81-9857-9640b9021fcb}">
         <property name="inputFormat">
             <value>2</value>
