@@ -40,8 +40,6 @@ void ARefugeeSimulatorProtagonist::SetupPlayerInputComponent(class UInputCompone
 	InputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	InputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
-	InputComponent->BindAction("PrintLogData", IE_Pressed, this, &ARefugeeSimulatorProtagonist::printToLogfile);
-
 	InputComponent->BindAxis("MoveForward", this, &ARefugeeSimulatorProtagonist::MoveForward);
 	InputComponent->BindAxis("MoveRight", this, &ARefugeeSimulatorProtagonist::MoveRight);
 

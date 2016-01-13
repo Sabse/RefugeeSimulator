@@ -39,13 +39,14 @@ public:
 	/** Collect data to create log string and add to log string array*/
 	void logEvent(float runtime, FString eventName, FString action);
 
+	UFUNCTION(BlueprintCallable, Category = Logfile)
+	/** Print data of log string to Logfile*/
+	void printToLogfile();
+
 protected:
 
 	/** save log messages to string array during gameplay*/
 	TArray<FString> logData;
-
-	/** Print data of log string to Logfile*/
-	void printToLogfile();
 
 	/** Calculate the minutes out of seconds*/
 	int timeCalculator(int seconds, int minutes);

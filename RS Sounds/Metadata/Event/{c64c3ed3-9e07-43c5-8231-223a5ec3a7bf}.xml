@@ -105,6 +105,9 @@
         </relationship>
     </object>
     <object class="EventMixerMaster" id="{4782b0a9-a20b-47d3-8abf-b850b5addbdd}">
+        <property name="volume">
+            <value>-1</value>
+        </property>
         <relationship name="effectChain">
             <destination>{5b13304f-6e70-4825-93a8-f448881db3e3}</destination>
         </relationship>
@@ -134,7 +137,7 @@
     </object>
     <object class="EventMixerGroup" id="{b359615a-a4f5-4f5b-990e-41c6589bb316}">
         <property name="volume">
-            <value>-18.5</value>
+            <value>-1</value>
         </property>
         <property name="name">
             <value>wind grund</value>
@@ -160,10 +163,10 @@
             <value>2</value>
         </property>
         <property name="minimumTimeBetweenSounds">
-            <value>5500</value>
+            <value>3000</value>
         </property>
         <property name="maximumTimeBetweenSounds">
-            <value>8000</value>
+            <value>9000</value>
         </property>
         <property name="minimumScatterDistance">
             <value>20</value>
@@ -183,7 +186,7 @@
     </object>
     <object class="EventMixerGroup" id="{62061337-46f9-4fff-a1c7-9ab6dc99e025}">
         <property name="volume">
-            <value>-11.5</value>
+            <value>7</value>
         </property>
         <property name="name">
             <value>wind</value>
@@ -209,16 +212,16 @@
             <value>3</value>
         </property>
         <property name="minimumTimeBetweenSounds">
-            <value>6000</value>
+            <value>8000</value>
         </property>
         <property name="maximumTimeBetweenSounds">
-            <value>10000</value>
+            <value>14000</value>
         </property>
         <property name="minimumScatterDistance">
             <value>15</value>
         </property>
         <property name="maximumScatterDistance">
-            <value>30</value>
+            <value>22</value>
         </property>
         <property name="volumeRandomization">
             <value>-3</value>
@@ -232,7 +235,7 @@
     </object>
     <object class="EventMixerGroup" id="{a47971fe-2649-44c8-9aa4-31827f39267e}">
         <property name="volume">
-            <value>-8</value>
+            <value>-1.5</value>
         </property>
         <property name="name">
             <value>vögel</value>
@@ -258,10 +261,10 @@
             <value>2</value>
         </property>
         <property name="minimumTimeBetweenSounds">
-            <value>21000</value>
+            <value>18000</value>
         </property>
         <property name="maximumTimeBetweenSounds">
-            <value>65000</value>
+            <value>40000</value>
         </property>
         <property name="minimumScatterDistance">
             <value>30</value>
@@ -281,7 +284,7 @@
     </object>
     <object class="EventMixerGroup" id="{a128b55a-833f-4670-aba3-5a9bd5e4df01}">
         <property name="volume">
-            <value>-8.5</value>
+            <value>-3.5</value>
         </property>
         <property name="name">
             <value>Dogs</value>
@@ -313,7 +316,6 @@
     <object class="MixerBusEffectChain" id="{5b13304f-6e70-4825-93a8-f448881db3e3}">
         <relationship name="effects">
             <destination>{b0079cac-4fb5-401a-9ecf-c9cc93d14a7f}</destination>
-            <destination>{fa92421a-d4f5-4d0d-8b11-dcd63b41657e}</destination>
             <destination>{6de152d1-c1cd-4ad6-8224-0575ab0a4999}</destination>
         </relationship>
     </object>
@@ -365,7 +367,6 @@
     </object>
     <object class="MixerBusPanner" id="{84f5e3c7-8712-4cb0-afbb-44ae232c30d4}"/>
     <object class="MixerBusFader" id="{b0079cac-4fb5-401a-9ecf-c9cc93d14a7f}"/>
-    <object class="SpatialiserEffect" id="{fa92421a-d4f5-4d0d-8b11-dcd63b41657e}"/>
     <object class="MixerSend" id="{6de152d1-c1cd-4ad6-8224-0575ab0a4999}">
         <property name="inputFormat">
             <value>2</value>
