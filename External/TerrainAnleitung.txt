@@ -3,7 +3,7 @@
 - Kopiere diese Datei in den Ordner ./Content/Maps
 - Öffne den Unreal Editor
 - Öffne die TerrainTemp Map
-- Kopiere alle Objekte (Strg+c) in der Objekthierarchie (3), UE könnte dir eine Warnung aufzeigen dass es etwas dauern würde
+- Kopiere alle Objekte (Strg+c) in der Objekthierarchie (2), UE könnte dir eine Warnung aufzeigen dass es etwas dauern würde
 - Öffne die MainLevel Map
 - Klicke auf das Objekt MainLevel in der Hierarchie (das erste oben vom Typ World) und füge die vorher kopierten 
 Objekte wieder ein (strg+v)
