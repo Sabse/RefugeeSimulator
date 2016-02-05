@@ -56,7 +56,7 @@
             <destination>{4d1eae68-32ba-4ae9-a329-73d598123dca}</destination>
         </relationship>
         <relationship name="output">
-            <destination>{388717d0-7965-4411-aa50-2d1062cd486d}</destination>
+            <destination>{7a0a648e-bc95-4496-acf0-1651a0b75142}</destination>
         </relationship>
     </object>
     <object class="EventAutomatableProperties" id="{82d88c31-bb6a-44cc-abe8-3cddcfb45268}"/>
@@ -297,7 +297,6 @@
         <relationship name="effects">
             <destination>{d6632882-cf85-4f87-9882-1a857d1d329e}</destination>
             <destination>{9061aa83-6f31-42a7-88b2-45ef60d03dae}</destination>
-            <destination>{ce1b6ad2-1dfc-46d8-b1e3-8ddfc65534b3}</destination>
         </relationship>
     </object>
     <object class="MixerBusPanner" id="{01910064-f00b-409f-9243-993a4fcb2838}"/>
@@ -475,14 +474,6 @@
         <property name="maximumDistance">
             <value>30</value>
         </property>
-    </object>
-    <object class="MixerSend" id="{ce1b6ad2-1dfc-46d8-b1e3-8ddfc65534b3}">
-        <property name="inputFormat">
-            <value>2</value>
-        </property>
-        <relationship name="mixerReturn">
-            <destination>{145f8a39-0728-49ac-a8ce-f7609827bc00}</destination>
-        </relationship>
     </object>
     <object class="MixerBusFader" id="{da7bb722-5a96-4dcd-be8c-b01fd48a1c1f}"/>
     <object class="SingleSound" id="{926fcdcc-970a-4f72-b525-2f0ecf884812}">
